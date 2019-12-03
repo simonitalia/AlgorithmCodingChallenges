@@ -1,7 +1,7 @@
 # SwiftAlgorithmCodingChallenges
 
 # About these files
-The files include my solutions to over 40 coding challenges listed in thee book mentioned further below
+The files include my solutions to over 40 coding challenges listed in the book mentioned further below
 
 # Topics 
 
