@@ -17,4 +17,4 @@ The files include my solutions to over 40 coding challenges listed in the book m
 Swift Coding Challenges, by Paul Hudson
 
 # Completed
-September 2019
+September, 2019
