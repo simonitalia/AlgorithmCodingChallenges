@@ -1,15 +1,15 @@
 # SwiftAlgorithmCodingChallenges
 
 # About these files
-The files include my solutions to over 40 coding challenges listed in the book mentioned further below
+The files include my algorithmic solutions to over 40 coding challenges provided in the book mentioned further below.
 
 # Topics 
 
 - Strings
 
-- Numbers
+- Number algorithms (int, double, float, binary)
 
-- Files
+- Files / FileManager
 
 - Linked Lists
 
